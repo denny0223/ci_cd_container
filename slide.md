@@ -102,6 +102,13 @@ output: index.html
 
 --
 
+### GitLab CI
+<div align="center">
+  <img style="width:800px" src="./img/ci.png" />
+</div>
+
+--
+
 # Package Management
 
 --
@@ -153,6 +160,11 @@ output: index.html
 --
 
 # [Docker Hub](http://hub.docker.com/)
+
+--
+
+# [Dockerfile](https://docs.docker.com/engine/reference/builder/)
+## [example](https://github.com/CCIP-App/CCIP-Server/blob/master/Dockerfile)
 
 --
 
